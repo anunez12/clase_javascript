@@ -10,6 +10,8 @@ alert('Hola mundo'); alert('vinicius pa cuando');
 alert(3+2+5)
 
 //variables
-let mensaje;
+let mensaje,saludo;
 mensaje= "Cristobal soria";
+saludo= "Hala madrid"
 console.log(mensaje)
+console.log(saludo)
